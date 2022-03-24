@@ -1,6 +1,7 @@
 title: GherKing
 theme: jekyll-theme-minimal
 logo: /gherking.png
+description: GherKing is a tool to make Gherkin smarter! It allows you to handle Cucumber/Gherkin feature files programmatically, in your JavaScript/TypeScript code.
 # include: ../profile
 # github:
 #   repository_url: https://github.com/gherking
