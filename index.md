@@ -1,6 +1,8 @@
+<!--
 # Hi there 👋
 
 **GherKing** is a tool to make Gherkin smarter! It allows you to handle Cucumber/Gherkin feature files programmatically, in your JavaScript/TypeScript code.
+-->
 
 ## What can you do with **GherKing**?
 
