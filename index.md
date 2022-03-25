@@ -26,6 +26,7 @@
 
 * **Copy** - to copy feature files and distribute them based on some logic (e.g. to different folders, based on a tag) ([#39](https://github.com/gherking/gherking/issues/39))
 * **Example Sampler** - to chose a given number of random example ([#37](https://github.com/gherking/gherking/issues/37))
+* **License** - to add a license statement to the feature files ([#61](https://github.com/gherking/gherking/issues/61))
 * **Remove Comments** - to remove all or particular type of semantic comments from the feature file ([#58](https://github.com/gherking/gherking/issues/58))
 * **Sorter** - to sort scenario/outline based on certain conditions ([#52](https://github.com/gherking/gherking/issues/52))
 * **Splitter** - to split each scenario/outline to separate feature files, to improve parallelization ([#44](https://github.com/gherking/gherking/issues/44))
