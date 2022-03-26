@@ -16,6 +16,7 @@
 * **Scenario Outline Expander** - [gpc-scenario-outline-expander](https://github.com/gherking/gpc-scenario-outline-expander) - to expand the Scenario Outlines to actual scenarios.
 * **Scenario Outline Numbering** - [gpc-scenario-outline-numbering](https://github.com/gherking/gpc-scenario-outline-numbering) - to make all scenario, generated from scenario outlines unique.
 * **Step Group** - [gpc-step-groups](https://github.com/gherking/gpc-step-groups) - to correct the gherkin keywords of steps to make the tests more readable.
+* **Test Data** - [gpc-test-data](https://github.com/gherking/gpc-test-data) - to load external data (JSON, CSV, or XLS/XLSX) into exmaples table.
 
 ## Precompilers we plan
 
@@ -25,7 +26,6 @@
 * **Sorter** - to sort scenario/outline based on certain conditions ([#52](https://github.com/gherking/gherking/issues/52))
 * **Splitter** - to split each scenario/outline to separate feature files, to improve parallelization ([#44](https://github.com/gherking/gherking/issues/44))
 * **Suite Generator** - to sort feature files and scenarios/outlines in separate files, based on suite-tags ([#45](https://github.com/gherking/gherking/issues/45))
-* **Test Data** - to insert test data to feature files ([#21](https://github.com/gherking/gherking/issues/21))
 
 Do you have an idea for a cool precompiler? [Send your idea to us!](https://github.com/gherking/gherking/issues/new?assignees=judit-nahaj%2C+szikszail&labels=enhancement&template=precompiler-request.md&title=%5BGPC%5D+The+name+of+the+precompiler)
 
