@@ -20,12 +20,12 @@
 
 ## Precompilers we plan
 
-* **Copy** - to copy feature files and distribute them based on some logic (e.g. to different folders, based on a tag) ([#39](https://github.com/gherking/gherking/issues/39))
-* **Example Sampler** - to chose a given number of random example ([#37](https://github.com/gherking/gherking/issues/37))
-* **License** - to add a license statement to the feature files ([#61](https://github.com/gherking/gherking/issues/61))
-* **Sorter** - to sort scenario/outline based on certain conditions ([#52](https://github.com/gherking/gherking/issues/52))
-* **Splitter** - to split each scenario/outline to separate feature files, to improve parallelization ([#44](https://github.com/gherking/gherking/issues/44))
-* **Suite Generator** - to sort feature files and scenarios/outlines in separate files, based on suite-tags ([#45](https://github.com/gherking/gherking/issues/45))
+* **Copy** - to copy feature files and distribute them based on some logic (e.g. to different folders, based on a tag) ([gherking#39](https://github.com/gherking/gherking/issues/39))
+* **Example Sampler** - to chose a given number of random example ([gherking#37](https://github.com/gherking/gherking/issues/37))
+* **License** - to add a license statement to the feature files ([gherking#61](https://github.com/gherking/gherking/issues/61))
+* **Sorter** - to sort scenario/outline based on certain conditions ([gherking#52](https://github.com/gherking/gherking/issues/52))
+* **Splitter** - to split each scenario/outline to separate feature files, to improve parallelization ([gherking#44](https://github.com/gherking/gherking/issues/44))
+* **Suite Generator** - to sort feature files and scenarios/outlines in separate files, based on suite-tags ([gherking#45](https://github.com/gherking/gherking/issues/45))
 
 Do you have an idea for a cool precompiler? [Send your idea to us!](https://github.com/gherking/gherking/issues/new?assignees=judit-nahaj%2C+szikszail&labels=enhancement&template=precompiler-request.md&title=%5BGPC%5D+The+name+of+the+precompiler)
 
@@ -35,4 +35,10 @@ Do you have a precompiler you implemented? [Send it to us!](https://github.com/g
 
 ## Upcoming features
 
+* **Configuration Schema** - to give assistance when editing the `.gherking.json` configuration file ([gherking#65](https://github.com/gherking/gherking/issues/65))
+* **Async Precompilers** - to add the possibility to work with async API in the precompilers ([gherking#67](https://github.com/gherking/gherking/issues/67))
+* **gpc-test-data/load_http** - to load data from HTTP API ([gpc-test-data#3](https://github.com/gherking/gpc-test-data/issues/3))
+* **init/jumpstart command** - to kick-off usage of GherKing easier ([gherking#66](https://github.com/gherking/gherking/issues/66))
+
 Do you have an idea for any new feature? [Send your idea to us!](https://github.com/gherking/gherking/issues/new?assignees=judit-nahaj%2C+szikszail&labels=enhancement&template=feature-request.md&title=%5BIMPR%5D+A+short+description%2Fname+of+the+new+feature)
+
