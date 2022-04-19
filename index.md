@@ -35,7 +35,6 @@ Do you have a precompiler you implemented? [Send it to us!](https://github.com/g
 
 ## Upcoming features
 
-* **Configuration Schema** - to give assistance when editing the `.gherking.json` configuration file ([gherking#65](https://github.com/gherking/gherking/issues/65))
 * **Async Precompilers** - to add the possibility to work with async API in the precompilers ([gherking#67](https://github.com/gherking/gherking/issues/67))
 * **gpc-test-data/load_http** - to load data from HTTP API ([gpc-test-data#3](https://github.com/gherking/gpc-test-data/issues/3))
 * **init/jumpstart command** - to kick-off usage of GherKing easier ([gherking#66](https://github.com/gherking/gherking/issues/66))
