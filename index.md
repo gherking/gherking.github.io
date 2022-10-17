@@ -38,7 +38,7 @@ Do you have a precompiler you implemented? [Send it to us!](https://github.com/g
 * **Async Precompilers** - to add the possibility to work with async API in the precompilers ([gherking#67](https://github.com/gherking/gherking/issues/67))
 * **gpc-test-data/load_http** - to load data from HTTP API ([gpc-test-data#3](https://github.com/gherking/gpc-test-data/issues/3))
 * **init/jumpstart command** - to kick-off usage of GherKing easier ([gherking#66](https://github.com/gherking/gherking/issues/66))
-* **Built-in tokens** - to add the possibility to use UUID and such more easily ([gpc-replacer#4](https://github.com/gherking/gpc-replacer/issues/4))
+* **gpc-replacer/built-in tokens** - to add the possibility to use UUID and such more easily ([gpc-replacer#4](https://github.com/gherking/gpc-replacer/issues/4))
 
 Do you have an idea for any new feature? [Send your idea to us!](https://github.com/gherking/gherking/issues/new?assignees=judit-nahaj%2C+szikszail&labels=enhancement&template=feature-request.md&title=%5BIMPR%5D+A+short+description%2Fname+of+the+new+feature)
 
