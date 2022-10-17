@@ -35,10 +35,11 @@ Do you have a precompiler you implemented? [Send it to us!](https://github.com/g
 
 ## Upcoming features
 
-* **Async Precompilers** - to add the possibility to work with async API in the precompilers ([gherking#67](https://github.com/gherking/gherking/issues/67))
-* **gpc-test-data/load_http** - to load data from HTTP API ([gpc-test-data#3](https://github.com/gherking/gpc-test-data/issues/3))
-* **init/jumpstart command** - to kick-off usage of GherKing easier ([gherking#66](https://github.com/gherking/gherking/issues/66))
+* **gherking/Async Precompilers** (in progress) - to add the possibility to work with async API in the precompilers ([gherking#67](https://github.com/gherking/gherking/issues/67))
+* **gpc-test-data/load_http** (in progress) - to load data from HTTP API ([gpc-test-data#3](https://github.com/gherking/gpc-test-data/issues/3))
+* **gherking/jumpstart command** (in progress) - to kick-off usage of GherKing easier ([gherking#66](https://github.com/gherking/gherking/issues/66))
 * **gpc-replacer/built-in tokens** - to add the possibility to use UUID and such more easily ([gpc-replacer#4](https://github.com/gherking/gpc-replacer/issues/4))
+* **gherking/Controlling precompiler application** - to control which precompiler is applied to a given feature file or which is not ([gherking#73](https://github.com/gherking/gherking/issues/73))
 
 Do you have an idea for any new feature? [Send your idea to us!](https://github.com/gherking/gherking/issues/new?assignees=judit-nahaj%2C+szikszail&labels=enhancement&template=feature-request.md&title=%5BIMPR%5D+A+short+description%2Fname+of+the+new+feature)
 
