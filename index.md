@@ -1,3 +1,9 @@
+> ## 🌟 NEWS!!! 🌟
+>
+> We recently released the following improvements:
+> * **gherking/Async Precompilers** (gherking@2.2.0) - to add the possibility to work with async API in the precompilers ([gherking#67](https://github.com/gherking/gherking/issues/67))
+> * **gpc-test-data/load_http** (gpc-test-data@1.1.0) - to load data from HTTP API ([gpc-test-data#3](https://github.com/gherking/gpc-test-data/issues/3))
+
 ## What can you do with **GherKing**?
 
 * You can use the [gherkin-ast](https://github.com/gherking/gherkin-ast) package to build and work with feature files in your code, using an **AST**.
@@ -35,8 +41,6 @@ Do you have a precompiler you implemented? [Send it to us!](https://github.com/g
 
 ## Upcoming features
 
-* **gherking/Async Precompilers** (in progress) - to add the possibility to work with async API in the precompilers ([gherking#67](https://github.com/gherking/gherking/issues/67))
-* **gpc-test-data/load_http** (in progress) - to load data from HTTP API ([gpc-test-data#3](https://github.com/gherking/gpc-test-data/issues/3))
 * **gherking/jumpstart command** (in progress) - to kick-off usage of GherKing easier ([gherking#66](https://github.com/gherking/gherking/issues/66))
 * **gpc-replacer/built-in tokens** - to add the possibility to use UUID and such more easily ([gpc-replacer#4](https://github.com/gherking/gpc-replacer/issues/4))
 * **gherking/Controlling precompiler application** - to control which precompiler is applied to a given feature file or which is not ([gherking#73](https://github.com/gherking/gherking/issues/73))
