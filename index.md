@@ -2,6 +2,7 @@
 >
 > We recently released the following improvements:
 > * **gherking/Async Precompilers** (gherking@2.2.0) - to add the possibility to work with async API in the precompilers ([gherking#67](https://github.com/gherking/gherking/issues/67))
+> * **gherking/Lazy Installing Precompilers** (gherking@2.3.0) - to install missing precompilers dynamically ([gherking#64](https://github.com/gherking/gherking/issues/64))
 > * **gpc-test-data/load_http** (gpc-test-data@1.1.0) - to load data from HTTP API ([gpc-test-data#3](https://github.com/gherking/gpc-test-data/issues/3))
 
 ## What can you do with **GherKing**?
