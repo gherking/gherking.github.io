@@ -1,7 +1,23 @@
+## 🙌 HACKTOBERFEST!!! 🙌
+
+We're excited to announce that **GherKing** is participating in this year's [Hacktoberfest](https://hacktoberfest.com/), a month-long celebration of open-source software contributions. This October, we invite you to join us in making a difference in open-source development!
+
+Here's what you need to know about GherKing's involvement in Hacktoberfest:
+ 1. **Get Involved**: GherKing is proud to be part of Hacktoberfest. This is a fantastic opportunity for developers, enthusiasts, and anyone interested in open source to collaborate with our project.
+ 2. **Dive into the Issues**: We have many issues and enhancements ready to tackle, [marked with the hacktoberfest label](https://github.com/gherking/gherking/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest). Whether you're a seasoned developer or just getting started, there's something for everyone. These contributions can help us improve GherKing and make it even better for our users.
+ 3. **Explore the Possibilities**: Not limited to just our existing issues, we welcome contributions to any of our [repositories marked with the Hacktoberfest topic](https://github.com/search?q=topic%3Ahacktoberfest+org%3Agherking&type=Repositories). Feel free to bring your creativity and ideas to the table!
+ 4. **Review Our Contribution Guidelines**: Review our contribution guidelines before you start. These guidelines outline the rules and best practices for contributing to GherKing. You can find it [here](https://github.com/gherking/.github/blob/main/CONTRIBUTING.md).
+
+Contribute, learn, and have fun this Hacktoberfest season with GherKing. Together, we can make a real impact on the open-source community while reaping the rewards of your efforts.
+
+Thank you for being a part of the GherKing family and helping us grow and thrive. Let's make this Hacktoberfest a memorable one!
+
+<!--
 > ## 🌟 NEWS!!! 🌟
 >
 > We recently released the following improvements:
 > * **gherkin-io/Parsing feature string** (gherkin-io@1.2.0) - to add the possibility to parse feature strings (feature file content) ([gherking#80](https://github.com/gherking/gherking/issues/80))
+-->
 
 ## What can you do with **GherKing**?
 
