@@ -1,3 +1,4 @@
+<!--
 ## 🙌 HACKTOBERFEST!!! 🙌
 
 We're excited to announce that **GherKing** is participating in this year's [Hacktoberfest](https://hacktoberfest.com/), a month-long celebration of open-source software contributions. This October, we invite you to join us in making a difference in open-source development!
@@ -11,6 +12,7 @@ Here's what you need to know about GherKing's involvement in Hacktoberfest:
 Contribute, learn, and have fun this Hacktoberfest season with GherKing. Together, we can make a real impact on the open-source community while reaping the rewards of your efforts.
 
 Thank you for being a part of the GherKing family and helping us grow and thrive. Let's make this Hacktoberfest a memorable one!
+-->
 
 <!--
 > ## 🌟 NEWS!!! 🌟
