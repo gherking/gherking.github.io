@@ -42,10 +42,12 @@ Thank you for being a part of the GherKing family and helping us grow and thrive
 
 ## Precompilers we plan
 
+* **Conditional Steps** - to allow skipping steps based on certain conditions (examples table columns) ([gherking#86](https://github.com/gherking/gherking/issues/86))
 * **Copy** - to copy feature files and distribute them based on some logic (e.g., to different folders, based on a tag) ([gherking#39](https://github.com/gherking/gherking/issues/39))
 * **Example Sampler** - to chose a given number of random example ([gherking#37](https://github.com/gherking/gherking/issues/37))
 * **Sorter** - to sort scenario/outline based on certain conditions ([gherking#52](https://github.com/gherking/gherking/issues/52))
 * **Splitter** - to split each scenario/outline to separate feature files to improve parallelization ([gherking#44](https://github.com/gherking/gherking/issues/44))
+* **Statistics** - to gather useful statistics of the feature files ([gherking#82](https://github.com/gherking/gherking/issues/82))
 * **Suite Generator** - to sort feature files and scenarios/outlines in separate files based on suite tags ([gherking#45](https://github.com/gherking/gherking/issues/45))
 
 Do you have an idea for a cool precompiler? [Send your idea to us!](https://github.com/gherking/gherking/issues/new?assignees=judit-nahaj%2C+szikszail&labels=enhancement&template=precompiler-request.md&title=%5BGPC%5D+The+name+of+the+precompiler)
@@ -56,6 +58,7 @@ Do you have a precompiler you implemented? [Send it to us!](https://github.com/g
 
 ## Upcoming features
 
+* **gherking/environment variables** - to allow usage of environment variables in configuration to control precompilers and their attributes ([gherking#90](https://github.com/gherking/gherking/issues/90))
 * **gherking/jumpstart command** (in progress) - to kick-off usage of GherKing easier ([gherking#66](https://github.com/gherking/gherking/issues/66))
 * **gpc-replacer/built-in tokens** - to add the possibility to use UUID much more easily ([gpc-replacer#4](https://github.com/gherking/gpc-replacer/issues/4))
 * **gherking/Controlling precompiler application** - to control which precompiler is applied to a given feature file or which is not ([gherking#73](https://github.com/gherking/gherking/issues/73))
