@@ -14,12 +14,11 @@ Contribute, learn, and have fun this Hacktoberfest season with GherKing. Togethe
 Thank you for being a part of the GherKing family and helping us grow and thrive. Let's make this Hacktoberfest a memorable one!
 -->
 
-<!--
+> [!TIP]
 > ## 🌟 NEWS!!! 🌟
 >
 > We recently released the following improvements:
-> * **gherkin-io/Parsing feature string** (gherkin-io@1.2.0) - to add the possibility to parse feature strings (feature file content) ([gherking#80](https://github.com/gherking/gherking/issues/80))
--->
+> * **gpc-for-loop/Iterations** (gpc-for-loop@1.1.0) - to define iterations and use those in the loop tags ([gherking#91](https://github.com/gherking/gherking/issues/91))
 
 ## What can you do with **GherKing**?
 
